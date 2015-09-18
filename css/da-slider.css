@@ -57,7 +57,7 @@
 	top: 60px;
 	white-space: nowrap;
 	z-index: 10;
-	text-shadow: 1px 1px 1px rgba(0,0,0,0.1); 
+	text-shadow: 3px 3px 3px rgba(0,0,0,0.1); 
 	font-weight: 700;
 }
 .da-slide p{
@@ -83,7 +83,7 @@
 .da-slide .da-link{
 	top: 270px; /*depends on p height*/
 	color: #fff;
-	text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+	text-shadow: 3px 3px 3px rgba(0,0,0,0.2);
 	border: 3px solid rgba(255,255,255,0.8);
 	padding: 2px 20px 0px;
 	font-size: 16px;
